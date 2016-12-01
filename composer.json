@@ -1,0 +1,30 @@
+{
+  "name": "codemommy/cookie",
+  "version": "1.0.0",
+  "description": "CodeMommy Cookie",
+  "keywords": [
+    "CodeMommy",
+    "Cookie"
+  ],
+  "license": "Apache",
+  "homepage": "http://www.codemommy.com",
+  "support": {
+    "issues": "https://github.com/CodeMommy/CookiePHP/issues",
+    "source": "https://github.com/CodeMommy/CookiePHP"
+  },
+  "authors": [
+    {
+      "name": "Candison November",
+      "email": "kandisheng@163.com",
+      "homepage": "http://www.kandisheng.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CodeMommy\\": "core/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
