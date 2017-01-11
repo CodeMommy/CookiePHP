@@ -1,59 +1,9 @@
 # CodeMommy Cookie for PHP
 
-## Start
+[![License](https://poser.pugx.org/CodeMommy/Cookie/license.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
+[![Downloads](https://poser.pugx.org/CodeMommy/Cookie/downloads.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
+[![Stable](https://poser.pugx.org/CodeMommy/Cookie/v/stable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
+[![Unstable](https://poser.pugx.org/CodeMommy/Cookie/v/unstable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 
-1. Install by Composer
-
-```bash
-composer require codemommy/cookie
-```
-
-2. Require Vendor Autoload
-
-```php
-<?php
-    require_once(__DIR__ . '/vendor/autoload.php');
-```
-3. Use Namespace
-
-```php
-<?php
-    use CodeMommy\Cookie;
-```
-
-## Functions
-
-### get
-
-```php
-<?php
-    $result = Cookie::get('key', 'default');
-```
-
-### set
-
-```php
-<?php
-    Cookie::set('key', 'value', $expire = null, $path = null, $domain = null, $secure = null, $httpOnly = null);
-```
-
-### isExist
-
-```php
-<?php
-    $result = Cookie::isExist('key');
-```
-
-### delete
-
-```php
-<?php
-    Cookie::delete('key');
-```
-
-### clear
-
-```php
-<?php
-    Cookie::clear();
-```
+## Documentation
+[English](documentation/english/index.md)
