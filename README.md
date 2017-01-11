@@ -5,7 +5,11 @@
 [![Stable](https://poser.pugx.org/CodeMommy/Cookie/v/stable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 [![Unstable](https://poser.pugx.org/CodeMommy/Cookie/v/unstable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 
-## Documentation
+CodeMommy Cookie for PHP is a cookie helper for web development. It helps you to operate cookie easily. 
+
+Visit [CodeMommy Website](http://www.codemommy.com/) to get more information.
+
+## Documentations
 | Version | Language |
 | :------ | :------- |
 | 1 | [English](documentation/1/english/index.md) |
