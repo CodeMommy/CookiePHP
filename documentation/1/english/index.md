@@ -2,16 +2,18 @@
 
 ## Start
 
-1. Install by Composer
+### 1.Install by Composer
 ```bash
 composer require codemommy/cookie
 ```
-2. Require Vendor Autoload
+
+### 2.Require Vendor Autoload
 ```php
 <?php
     require_once(__DIR__ . '/vendor/autoload.php');
 ```
-3. Use Namespace
+
+### 3.Use Namespace
 ```php
 <?php
     use CodeMommy\Cookie;

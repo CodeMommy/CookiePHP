@@ -6,10 +6,13 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/Cookie/v/unstable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 
 ## Documentation
-[English](documentation/english/index.md)
+| Version | Language |
+| :------ | :------- |
+| 1 | [English](documentation/1/english/index.md) |
+
 
 ## Author
 
 | Author            | Identity | Social |
 | :---------------- | :------- | :----- |
-| Candison November | Creator  | [Website](http://www.kandisheng.com/) [Github](https://github.com/KanDisheng) |
+| Candison November | Creator  | [Website](http://www.kandisheng.com/) - [Github](https://github.com/KanDisheng) |
