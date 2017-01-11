@@ -11,8 +11,8 @@
 | 1 | [English](documentation/1/english/index.md) |
 
 
-## Author
+## Authors
 
-| Author            | Identity | Social |
-| :---------------- | :------- | :----- |
+| Name | Identity | Social |
+| :--- | :------- | :----- |
 | Candison November | Creator  | [Website](http://www.kandisheng.com/) - [Github](https://github.com/KanDisheng) |
