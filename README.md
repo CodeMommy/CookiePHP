@@ -5,9 +5,9 @@
 [![Stable](https://poser.pugx.org/CodeMommy/Cookie/v/stable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 [![Unstable](https://poser.pugx.org/CodeMommy/Cookie/v/unstable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 
-CodeMommy Cookie for PHP is a cookie helper for web development. It helps you to operate cookie easily. 
+CodeMommy Cookie for PHP is a cookie helper for web development. It helps you to operate cookie easily.
 
-Visit [CodeMommy Website](http://www.codemommy.com/) to get more information.
+Visit [CodeMommy Website](http://www.codemommy.com) to get more information.
 
 ## Documentations
 | Version | Language |
@@ -19,4 +19,4 @@ Visit [CodeMommy Website](http://www.codemommy.com/) to get more information.
 
 | Name | Identity | Social |
 | :--- | :------- | :----- |
-| Candison November | Creator  | [Website](http://www.kandisheng.com/) - [Github](https://github.com/KanDisheng) |
+| Candison November | Creator  | [Website](http://www.kandisheng.com) - [Github](https://github.com/KanDisheng) |

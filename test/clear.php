@@ -1,7 +1,8 @@
 <?php
 
 /**
- * @author   Candison November (www.kandisheng.com)
+ * @author   Candison November
+ * @website  www.kandisheng.com
  * @location Nanjing China
  */
 
