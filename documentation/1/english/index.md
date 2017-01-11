@@ -7,7 +7,7 @@
 composer require codemommy/cookie
 ```
 
-### 2. Require Vendor Autoload
+### 2. Require Vendor Autoload File
 ```php
 <?php
     require_once(__DIR__ . '/vendor/autoload.php');
