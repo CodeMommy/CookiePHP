@@ -7,3 +7,9 @@
 
 ## Documentation
 [English](documentation/english/index.md)
+
+## Author
+
+| Author            | Identity | Social |
+| :---------------- | :------- | :----- |
+| Candison November | Creator  | [Website](http://www.kandisheng.com/) [Github](https://github.com/KanDisheng) |
