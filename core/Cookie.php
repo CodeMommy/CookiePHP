@@ -1,6 +1,6 @@
 <?php
 
-/*
+/**
  * @author   Candison November (www.kandisheng.com)
  * @location Nanjing China
  */
@@ -16,16 +16,19 @@ class Cookie
         }
         return $default;
     }
-    public static function set($key, $value)
+
+    public static function set($key, $value, $expire = null, $path = null, $domain = null, $secure = null, $httpOnly = null)
     {
-        setcookie($key, $value);
+        setcookie($key, $value, $expire, $path, $domain, $secure, $httpOnly);
         return true;
     }
+
     public static function delete($key)
     {
-        setcookie($key, '', time() - 3600);
+        self::set($key, null);
         return true;
     }
+
     public static function isExist($key)
     {
         $value = self::get($key);
@@ -34,6 +37,7 @@ class Cookie
         }
         return true;
     }
+
     public static function clear()
     {
         if ($_COOKIE) {
