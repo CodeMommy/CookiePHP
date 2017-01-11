@@ -19,4 +19,4 @@ Visit [CodeMommy Website](http://www.codemommy.com) to get more information.
 
 | Name | Identity | Social |
 | :--- | :------- | :----- |
-| Candison November | Creator  | [Website](http://www.kandisheng.com) - [Github](https://github.com/KanDisheng) |
+| Candison November | Creator  | [Website](http://www.kandisheng.com) - [GitHub](https://github.com/KanDisheng) |
