@@ -28,7 +28,4 @@ Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packa
 ## More
 
 - [Feedback](https://github.com/CodeMommy/CookiePHP/issues)
-- [Donation](https://github.com/CodeMommy/CodeMommy/blob/master/Donation.md)
-- [About CodeMommy](https://github.com/CodeMommy/CodeMommy/blob/master/About.md)
-- [Contact CodeMommy](https://github.com/CodeMommy/CodeMommy/blob/master/Contact.md)
-- [Join CodeMommy](https://github.com/CodeMommy/CodeMommy/blob/master/Join.md)
+- [About CodeMommy](https://github.com/CodeMommy/CodeMommy)
