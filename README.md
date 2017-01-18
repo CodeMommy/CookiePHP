@@ -5,9 +5,11 @@
 [![Stable](https://poser.pugx.org/CodeMommy/Cookie/v/stable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 [![Unstable](https://poser.pugx.org/CodeMommy/Cookie/v/unstable.svg?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 
-CodeMommy Cookie for PHP is a cookie helper for web development under license [Apache 2.0](LICENSE). It helps you to operate cookie easily.
+CodeMommy Cookie for PHP is a cookie helper for web development under license [Apache 2.0](LICENSE).
 
-Visit [CodeMommy Website](http://www.codemommy.com) to get more information.
+It helps you to operate cookie easily.
+
+Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/Cookie) to get more information.
 
 ## Documentations
 | Version | Language |
