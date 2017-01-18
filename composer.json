@@ -1,6 +1,6 @@
 {
   "name": "codemommy/cookie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CodeMommy Cookie for PHP is a cookie helper for web development. It helps you to operate cookie easily.",
   "keywords": [
     "CodeMommy",
@@ -22,7 +22,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "CodeMommy\\": "core/"
+      "CodeMommy\\": "source/"
     }
   },
   "require": {

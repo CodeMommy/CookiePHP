@@ -1,9 +1,7 @@
 <?php
 
 /**
- * @author   Candison November
- * @website  www.kandisheng.com
- * @location Nanjing China
+ * @author   Candison November <www.kandisheng.com>
  */
 
 require_once(__DIR__ . '/../core/Cookie.php');
