@@ -1,7 +1,7 @@
 {
   "name": "codemommy/cookie",
   "version": "1.0.1",
-  "description": "CodeMommy Cookie for PHP is a cookie helper for web development. It helps you to operate cookie easily.",
+  "description": "CodeMommy Cookie for PHP is a cookie helper for web development under license Apache 2.0. It helps you to operate cookie easily.",
   "keywords": [
     "CodeMommy",
     "Cookie",
