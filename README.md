@@ -1,6 +1,6 @@
 # CodeMommy Cookie for PHP
 
-[![License](https://poser.pugx.org/CodeMommy/Cookie/license?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
+[![License](https://poser.pugx.org/CodeMommy/Cookie/license?format=flat-square)](LICENSE)
 [![Download](https://poser.pugx.org/CodeMommy/Cookie/downloads?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 [![Stable](https://poser.pugx.org/CodeMommy/Cookie/version?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
 [![Unstable](https://poser.pugx.org/CodeMommy/Cookie/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
