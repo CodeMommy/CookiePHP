@@ -1,17 +1,17 @@
-# CodeMommy Cookie for PHP
+# CodeMommy CookiePHP
 
-[![License](https://poser.pugx.org/CodeMommy/Cookie/license?format=flat-square)](LICENSE)
-[![Download](https://poser.pugx.org/CodeMommy/Cookie/downloads?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
-[![Stable](https://poser.pugx.org/CodeMommy/Cookie/version?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
-[![Unstable](https://poser.pugx.org/CodeMommy/Cookie/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
-[![composer.lock Available](https://poser.pugx.org/CodeMommy/Cookie/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/Cookie)
+[![License](https://poser.pugx.org/CodeMommy/CookiePHP/license?format=flat-square)](LICENSE)
+[![Download](https://poser.pugx.org/CodeMommy/CookiePHP/downloads?format=flat-square)](https://packagist.org/packages/CodeMommy/CookiePHP)
+[![Stable](https://poser.pugx.org/CodeMommy/CookiePHP/version?format=flat-square)](https://packagist.org/packages/CodeMommy/CookiePHP)
+[![Unstable](https://poser.pugx.org/CodeMommy/CookiePHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/CookiePHP)
+[![composer.lock Available](https://poser.pugx.org/CodeMommy/CookiePHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/CookiePHP)
 
 
-CodeMommy Cookie for PHP is a cookie helper for web development under license [Apache 2.0](LICENSE).
+CodeMommy CookiePHP is a cookie helper for web development under license [Apache 2.0](LICENSE).
 
 It helps you to operate cookie easily.
 
-Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/Cookie) to get more information.
+Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/CookiePHP) to get more information.
 
 ## Documentations
 | Version | Language |

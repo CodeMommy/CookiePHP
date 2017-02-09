@@ -1,10 +1,10 @@
 {
-  "name": "codemommy/cookie",
+  "name": "codemommy/cookiephp",
   "version": "1.0.1",
-  "description": "CodeMommy Cookie for PHP is a cookie helper for web development under license Apache 2.0. It helps you to operate cookie easily.",
+  "description": "CodeMommy CookiePHP is a cookie helper for web development under license Apache 2.0. It helps you to operate cookie easily.",
   "keywords": [
     "CodeMommy",
-    "Cookie",
+    "CookiePHP",
     "PHP"
   ],
   "license": "Apache 2.0",
@@ -22,7 +22,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "CodeMommy\\": "source/"
+      "CodeMommy\\CookiePHP\\": "source/"
     }
   },
   "require": {

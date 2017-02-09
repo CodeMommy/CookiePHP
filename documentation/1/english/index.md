@@ -1,10 +1,10 @@
-# Documentation of CodeMommy Cookie for PHP
+# Documentation of CodeMommy CookiePHP
 
 ## Start
 
 ### 1. Install by Composer
 ```bash
-composer require codemommy/cookie
+composer require codemommy/cookiephp
 ```
 
 ### 2. Require Vendor Autoload File
@@ -16,7 +16,7 @@ require_once(__DIR__ . '/vendor/autoload.php');
 ### 3. Use Namespace
 ```php
 <?php
-use CodeMommy\Cookie;
+use CodeMommy\CookiePHP\Cookie;
 ```
 
 ## Functions
