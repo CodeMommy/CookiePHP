@@ -3,7 +3,6 @@
 /**
  * CodeMommy CookiePHP
  * @author  Candison November <www.kandisheng.com>
- * @version 1.0.1
  */
 
 namespace CodeMommy\CookiePHP;
