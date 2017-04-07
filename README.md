@@ -6,10 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/CookiePHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/CookiePHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/CookiePHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/CookiePHP)
 
-
-> CodeMommy CookiePHP is a cookie helper for web development under license [Apache 2.0](LICENSE).
-
-It helps you to operate cookie easily.
+> Operate cookies for web
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/CookiePHP) to get more information.
 
